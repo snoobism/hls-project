@@ -3,7 +3,10 @@
 # ------------------------------------------------------------------------------
 set SOLUTION_PART "xc7a15tcpg236-1"
 set SOLUTION_CLKP 1000.0
-# MAJOR.MINOR.REVISION
+
+# ------------------------------------------------------------------------------
+# Vitis HLS IP Package Settings
+# ------------------------------------------------------------------------------
 set VERSION "1.0.0"
 set DISPLAY_NAME "HLS Project"
 set DESCRIPTION "A basic HLS project"
