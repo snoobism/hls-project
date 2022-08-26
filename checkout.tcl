@@ -1,16 +1,17 @@
 # ------------------------------------------------------------------------------
 # Vitis HLS Project User Settings
 # ------------------------------------------------------------------------------
+
+# FPGA Part
 set SOLUTION_PART "xc7a15tcpg236-1"
+# IP clock period
 set SOLUTION_CLKP 1000.0
 
 # ------------------------------------------------------------------------------
 # Vitis HLS IP Package Settings
 # ------------------------------------------------------------------------------
 set VERSION "1.0.0"
-set DISPLAY_NAME "HLS Project"
-set DESCRIPTION "A basic HLS project"
-set VENDOR "DemoVendor"
+set DISPLAY_NAME "HLS UART TX"
 
 # ------------------------------------------------------------------------------
 # Vitis HLS Project Information
